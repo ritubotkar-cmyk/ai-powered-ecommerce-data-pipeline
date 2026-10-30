@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.git
+venv/
+.venv/
+__pycache__/
+*.pyc
+logs/
+reports/
+data/orders_invalid_test.csv
